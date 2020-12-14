@@ -49,7 +49,7 @@
   ![badmath](https://img.shields.io/badge/license-MIT-green)
   
   ## Tests
-  There are currently no test scripts created for this application :( Happy to collaborate so please reach out!
+  Currently None
   
   ## Questions
   [Link to Creator Github](https://github.com/avatl)
